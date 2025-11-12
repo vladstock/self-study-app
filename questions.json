@@ -3,15 +3,10 @@
     "term": "acceptance criteria",
     "definition": "A list of minimum requirements that a service or service component must meet for it to be acceptable to key stakeholders.",
     "options": [
-      "emergency change",
-      "IT asset",
-      "service validation and testing practice",
+      "configuration item (CI)",
       "deployment",
       "asset register",
-      "acceptance criteria",
-      "driver",
-      "configuration item (CI)",
-      "warranty requirements"
+      "acceptance criteria"
     ],
     "correct_answer": "acceptance criteria"
   },
@@ -19,15 +14,10 @@
     "term": "Agile",
     "definition": "An umbrella term for a collection of frameworks and techniques that together enable teams and individuals to work in a way that is typified by collaboration, prioritization, iterative and incremental delivery, and timeboxing. There are several specific methods (or frameworks) that are classed as Agile, such as Scrum, Lean, and Kanban.",
     "options": [
-      "cost",
-      "configuration",
-      "systems thinking",
-      "service value system (SVS)",
-      "service owner",
-      "procedure",
-      "Agile",
+      "live environment",
       "IT asset",
-      "live environment"
+      "Agile",
+      "procedure"
     ],
     "correct_answer": "Agile"
   },
@@ -35,15 +25,10 @@
     "term": "architecture management practice",
     "definition": "The practice of providing an understanding of all the different elements that make up an organization and how those elements relate to one another.",
     "options": [
-      "risk management practice",
-      "project management practice",
       "architecture management practice",
+      "risk management practice",
       "information security management practice",
-      "maturity",
-      "management system",
-      "strategy management practice",
-      "supplier",
-      "continual improvement practice"
+      "strategy management practice"
     ],
     "correct_answer": "architecture management practice"
   },
@@ -51,15 +36,10 @@
     "term": "asset register",
     "definition": "A database or list of assets, capturing key attributes such as ownership and financial value.",
     "options": [
-      "warranty requirements",
-      "demand",
-      "Lean",
-      "business impact analysis (BIA)",
       "ITIL value chain activity",
       "asset register",
       "acceptance criteria",
-      "escalation",
-      "IT asset management practice"
+      "Lean"
     ],
     "correct_answer": "asset register"
   },
@@ -67,15 +47,10 @@
     "term": "availability",
     "definition": "The ability of an IT service or other configuration item to perform its agreed function when required.",
     "options": [
-      "mean time between failures (MTBF)",
-      "operation",
-      "reliability",
       "live",
-      "specification",
-      "availability",
-      "capability",
       "retire",
-      "event"
+      "availability",
+      "reliability"
     ],
     "correct_answer": "availability"
   },
@@ -83,15 +58,10 @@
     "term": "availability management practice",
     "definition": "The practice of ensuring that services deliver agreed levels of availability to meet the needs of customers and users.",
     "options": [
-      "configuration item (CI)",
-      "availability management practice",
-      "service validation and testing practice",
-      "service provision",
-      "supplier management practice",
-      "digital transformation",
-      "service continuity management practice",
       "capacity and performance management",
-      "project management practice"
+      "availability management practice",
+      "supplier management practice",
+      "configuration item (CI)"
     ],
     "correct_answer": "availability management practice"
   },
@@ -99,15 +69,10 @@
     "term": "baseline",
     "definition": "A report or metric that serves as a starting point against which progress or change can be assessed.",
     "options": [
-      "emergency change",
-      "event",
-      "key performance indicator (KPI)",
-      "change authority",
-      "mean time between failures (MTBF)",
-      "change enablement practice",
       "baseline",
-      "change model",
-      "mean time to restore service (MTRS)"
+      "emergency change",
+      "key performance indicator (KPI)",
+      "change authority"
     ],
     "correct_answer": "baseline"
   },
@@ -115,15 +80,10 @@
     "term": "best practice",
     "definition": "A way of working that has been proven to be successful by multiple organizations.",
     "options": [
-      "utility requirements",
-      "capacity and performance management",
-      "partners and suppliers",
-      "effectiveness",
-      "best practice",
       "service request",
-      "procedure",
-      "partnership",
-      "known error"
+      "best practice",
+      "capacity and performance management",
+      "partnership"
     ],
     "correct_answer": "best practice"
   },
@@ -131,15 +91,10 @@
     "term": "big data",
     "definition": "The use of very large volumes of structured and unstructured data from a variety of sources to gain new insights.",
     "options": [
-      "release",
-      "service catalogue",
-      "retire",
-      "service design practice",
-      "IT service",
-      "configuration management system (CMS)",
-      "release management practice",
       "big data",
-      "service validation and testing practice"
+      "service validation and testing practice",
+      "release",
+      "service catalogue"
     ],
     "correct_answer": "big data"
   },
@@ -147,15 +102,10 @@
     "term": "business analysis practice",
     "definition": "The practice of analysing a business or some element of a business, defining its needs and recommending solutions to address these needs and/or solve a business problem, and create value for stakeholders.",
     "options": [
-      "demand",
-      "availability management practice",
-      "engage",
-      "business analysis practice",
       "continual improvement practice",
-      "relationship management practice",
-      "design thinking",
-      "business impact analysis (BIA)",
-      "service level management practice"
+      "business analysis practice",
+      "service level management practice",
+      "engage"
     ],
     "correct_answer": "business analysis practice"
   },
@@ -163,15 +113,10 @@
     "term": "business case",
     "definition": "A justification for expenditure of organizational resources, providing information about costs, benefits, options, risks, and issues.",
     "options": [
-      "information security management practice",
-      "organizational velocity",
       "IT service",
-      "practice",
-      "service catalogue",
-      "service catalogue management practice",
+      "organizational velocity",
       "business case",
-      "service",
-      "service configuration management practice"
+      "service catalogue management practice"
     ],
     "correct_answer": "business case"
   },
@@ -179,15 +124,10 @@
     "term": "business impact analysis (BIA)",
     "definition": "A key activity in the practice of service continuity management that identifies vital business functions and their dependencies.",
     "options": [
-      "service financial management practice",
-      "operation",
-      "service level management practice",
-      "workforce and talent management practice",
       "effectiveness",
-      "ITIL",
-      "improve",
+      "business impact analysis (BIA)",
       "continual improvement practice",
-      "business impact analysis (BIA)"
+      "workforce and talent management practice"
     ],
     "correct_answer": "business impact analysis (BIA)"
   },
@@ -195,14 +135,9 @@
     "term": "business relationship manager (BRM)",
     "definition": "A role responsible for maintaining good relationships with one or more customers.",
     "options": [
-      "service owner",
       "business relationship manager (BRM)",
-      "supplier",
       "change authority",
-      "service provider",
-      "engage",
       "modelling",
-      "digital transformation",
       "customer"
     ],
     "correct_answer": "business relationship manager (BRM)"
@@ -211,14 +146,9 @@
     "term": "call",
     "definition": "An interaction (e.g. a telephone call) with the service desk. A call could result in an incident or a service request being logged.",
     "options": [
-      "service desk",
-      "capacity planning",
-      "sourcing",
-      "outcome",
-      "service request",
-      "major incident",
-      "incident",
       "call",
+      "capacity planning",
+      "service request",
       "workaround"
     ],
     "correct_answer": "call"
@@ -227,15 +157,10 @@
     "term": "call/contact centre",
     "definition": "An organization or business unit that handles large numbers of incoming and outgoing calls and other interactions.",
     "options": [
-      "workforce and talent management practice",
-      "external customer",
-      "call/contact centre",
-      "supplier",
       "cost centre",
-      "risk management practice",
+      "call/contact centre",
       "service architecture",
-      "continual improvement practice",
-      "recovery time objective (RTO)"
+      "workforce and talent management practice"
     ],
     "correct_answer": "call/contact centre"
   },
@@ -243,15 +168,10 @@
     "term": "capability",
     "definition": "The ability of an organization, person, process, application, configuration item, or IT service to carry out an activity.",
     "options": [
-      "live",
-      "procedure",
-      "recovery",
-      "availability",
-      "operation",
-      "event",
       "capability",
-      "reliability",
-      "mean time between failures (MTBF)"
+      "event",
+      "mean time between failures (MTBF)",
+      "availability"
     ],
     "correct_answer": "capability"
   },
@@ -259,15 +179,10 @@
     "term": "capacity and performance management",
     "definition": "practice The practice of ensuring that services achieve agreed and expected performance levels, satisfying current and future demand in a costeffective way.",
     "options": [
-      "capacity and performance management",
       "service continuity management practice",
-      "availability management practice",
-      "supplier management practice",
-      "service validation and testing practice",
-      "relationship management practice",
-      "measurement and reporting",
-      "risk management practice",
-      "project management practice"
+      "capacity and performance management",
+      "project management practice",
+      "availability management practice"
     ],
     "correct_answer": "capacity and performance management"
   },
@@ -276,14 +191,9 @@
     "definition": "The activity of creating a plan that manages resources to meet demand for services. change The addition, modification, or removal of anything that could have a direct or indirect effect on services.",
     "options": [
       "obtain/build",
-      "modelling",
-      "design and transition",
-      "sourcing",
       "capacity planning",
-      "charging",
-      "resolution",
-      "output",
-      "effectiveness"
+      "sourcing",
+      "output"
     ],
     "correct_answer": "capacity planning"
   },
@@ -291,15 +201,10 @@
     "term": "change authority",
     "definition": "A person or group responsible for authorizing a change.",
     "options": [
-      "change enablement practice",
-      "organization",
       "performance",
-      "emergency change",
-      "change authority",
-      "event",
-      "business relationship manager (BRM)",
       "change model",
-      "supplier"
+      "change authority",
+      "organization"
     ],
     "correct_answer": "change authority"
   },
@@ -307,15 +212,10 @@
     "term": "change enablement practice",
     "definition": "The practice of ensuring that risks are properly assessed, authorizing changes to proceed and managing a change schedule in order to maximize the number of successful service and product changes.",
     "options": [
-      "baseline",
-      "organizational change management",
-      "change authority",
       "change enablement practice",
-      "service validation and testing practice",
+      "baseline",
       "IT asset management practice",
-      "risk management practice",
-      "project management practice",
-      "information security management practice"
+      "project management practice"
     ],
     "correct_answer": "change enablement practice"
   },
@@ -324,14 +224,9 @@
     "definition": "A repeatable approach to the management of a particular type of change.",
     "options": [
       "ITIL guiding principles",
-      "sourcing",
-      "emergency change",
-      "change model",
       "metric",
-      "information security policy",
-      "change authority",
-      "event",
-      "ITIL"
+      "change model",
+      "event"
     ],
     "correct_answer": "change model"
   },
@@ -339,15 +234,10 @@
     "term": "change schedule",
     "definition": "A calendar that shows planned and historical changes.",
     "options": [
-      "Agile",
-      "ITIL guiding principles",
-      "monitoring and event management practice",
-      "continuous deployment",
-      "change schedule",
-      "operational technology",
       "change enablement practice",
+      "operational technology",
       "acceptance criteria",
-      "organizational change management"
+      "change schedule"
     ],
     "correct_answer": "change schedule"
   },
@@ -355,15 +245,10 @@
     "term": "charging",
     "definition": "The activity that assigns a price for services. cloud computing A model for enabling on-demand network access to a shared pool of configurable computing resources that can be rapidly provided with minimal management effort or provider interaction.",
     "options": [
-      "business impact analysis (BIA)",
-      "effectiveness",
-      "service desk",
-      "operation",
-      "charging",
-      "service financial management practice",
       "service relationship",
-      "service provision",
-      "capacity planning"
+      "operation",
+      "service desk",
+      "charging"
     ],
     "correct_answer": "charging"
   },
@@ -371,14 +256,9 @@
     "term": "compliance",
     "definition": "The act of ensuring that a standard or set of guidelines is followed, or that proper, consistent accounting or other practices are being employed.",
     "options": [
-      "work instruction",
-      "retire",
-      "risk management practice",
       "configuration management system (CMS)",
-      "compliance",
       "culture",
-      "project management practice",
-      "service catalogue management practice",
+      "compliance",
       "control"
     ],
     "correct_answer": "compliance"
@@ -388,14 +268,9 @@
     "definition": "A security objective that ensures information is not made available or disclosed to unauthorized entities.",
     "options": [
       "service configuration management practice",
-      "IT service",
       "confidentiality",
-      "obtain/build",
       "request catalogue",
-      "integrity",
-      "release",
-      "information security policy",
-      "service catalogue management practice"
+      "IT service"
     ],
     "correct_answer": "confidentiality"
   },
@@ -403,15 +278,10 @@
     "term": "configuration",
     "definition": "An arrangement of configuration items (CIs) or other resources that work together to deliver a product or service. Can also be used to describe the parameter settings for one or more CIs.",
     "options": [
-      "service configuration management practice",
       "configuration",
-      "practice",
-      "release",
-      "retire",
       "specification",
-      "product",
-      "operation",
-      "reliability"
+      "reliability",
+      "operation"
     ],
     "correct_answer": "configuration"
   },
@@ -419,15 +289,10 @@
     "term": "configuration item (CI)",
     "definition": "Any component that needs to be managed in order to deliver an IT service.",
     "options": [
-      "acceptance criteria",
-      "service portfolio",
-      "deployment",
-      "work instruction",
       "failure",
-      "IT asset",
       "configuration item (CI)",
       "availability management practice",
-      "value stream"
+      "work instruction"
     ],
     "correct_answer": "configuration item (CI)"
   },
@@ -435,15 +300,10 @@
     "term": "configuration management database",
     "definition": "(CMDB) A database used to store configuration records throughout their lifecycle. The CMDB also maintains the relationships between configuration records.",
     "options": [
-      "configuration record",
-      "specification",
-      "business relationship manager (BRM)",
       "IT asset management practice",
+      "business relationship manager (BRM)",
       "service relationship",
-      "configuration management database",
-      "event",
-      "live",
-      "mean time between failures (MTBF)"
+      "configuration management database"
     ],
     "correct_answer": "configuration management database"
   },
@@ -451,15 +311,10 @@
     "term": "configuration management system (CMS)",
     "definition": "A set of tools, data, and information that is used to support service configuration management.",
     "options": [
-      "ITIL",
       "IT service",
-      "service configuration management practice",
-      "configuration management system (CMS)",
-      "information and technology",
       "information security policy",
       "operation",
-      "configuration record",
-      "event"
+      "configuration management system (CMS)"
     ],
     "correct_answer": "configuration management system (CMS)"
   },
@@ -467,15 +322,10 @@
     "term": "configuration record",
     "definition": "A record containing the details of a configuration item (CI). Each configuration record documents the lifecycle of a single CI. Configuration records are stored in a configuration management database.",
     "options": [
-      "availability",
+      "configuration management database",
       "configuration record",
       "mean time between failures (MTBF)",
-      "configuration management system (CMS)",
-      "specification",
-      "operation",
-      "live",
-      "configuration management database",
-      "event"
+      "specification"
     ],
     "correct_answer": "configuration record"
   },
@@ -483,15 +333,10 @@
     "term": "continual improvement practice",
     "definition": "The practice of aligning an organization’s practices and services with changing business needs through the ongoing identification and improvement of all elements involved in the effective management of products and services.",
     "options": [
-      "service financial management practice",
-      "supplier management practice",
-      "architecture management practice",
-      "knowledge management practice",
-      "partners and suppliers",
-      "improve",
-      "business impact analysis (BIA)",
       "continual improvement practice",
-      "service design practice"
+      "service design practice",
+      "supplier management practice",
+      "business impact analysis (BIA)"
     ],
     "correct_answer": "continual improvement practice"
   },
@@ -500,14 +345,9 @@
     "definition": "An integrated set of practices and tools used to deploy software changes into the production environment. These software changes have already passed pre-defined automated tests. continuous integration/continuous delivery An integrated set of practices and tools used to merge developers’ code, build and test the resulting software, and package it so that it is ready for deployment.",
     "options": [
       "service request management practice",
-      "configuration management system (CMS)",
-      "compliance",
-      "product",
-      "IT infrastructure",
-      "disaster recovery plans",
       "live environment",
-      "continuous deployment",
-      "pilot"
+      "product",
+      "continuous deployment"
     ],
     "correct_answer": "continuous deployment"
   },
@@ -517,13 +357,8 @@
     "options": [
       "service level",
       "cost centre",
-      "IT asset management practice",
       "control",
-      "key performance indicator (KPI)",
-      "workforce and talent management practice",
-      "compliance",
-      "change enablement practice",
-      "organizational change management"
+      "compliance"
     ],
     "correct_answer": "control"
   },
@@ -531,15 +366,10 @@
     "term": "cost",
     "definition": "The amount of money spent on a specific activity or resource.",
     "options": [
-      "procedure",
-      "modelling",
-      "effectiveness",
-      "status",
       "output",
-      "service owner",
       "work instruction",
-      "risk assessment",
-      "cost"
+      "cost",
+      "status"
     ],
     "correct_answer": "cost"
   },
@@ -547,15 +377,10 @@
     "term": "cost centre",
     "definition": "A business unit or project to which costs are assigned.",
     "options": [
-      "design and transition",
-      "cost centre",
-      "control",
-      "call/contact centre",
-      "project",
       "business case",
+      "cost centre",
       "major incident",
-      "business impact analysis (BIA)",
-      "digital transformation"
+      "control"
     ],
     "correct_answer": "cost centre"
   },
@@ -563,15 +388,10 @@
     "term": "critical success factor (CSF)",
     "definition": "A necessary precondition for the achievement of intended results.",
     "options": [
-      "management system",
-      "acceptance criteria",
-      "reliability",
-      "disaster",
-      "quick win",
-      "Agile",
-      "critical success factor (CSF)",
       "resolution",
-      "strategy management practice"
+      "reliability",
+      "acceptance criteria",
+      "critical success factor (CSF)"
     ],
     "correct_answer": "critical success factor (CSF)"
   },
@@ -579,13 +399,8 @@
     "term": "culture",
     "definition": "A set of values that is shared by a group of people, including expectations about how people should behave, ideas, beliefs, and practices.",
     "options": [
-      "configuration management system (CMS)",
-      "mean time to restore service (MTRS)",
-      "compliance",
-      "continuous deployment",
-      "disaster recovery plans",
       "culture",
-      "mean time between failures (MTBF)",
+      "continuous deployment",
       "organization",
       "change authority"
     ],
@@ -595,15 +410,10 @@
     "term": "customer",
     "definition": "The role that defines the requirements for a service and takes responsibility for the outcomes of service consumption.",
     "options": [
-      "business relationship manager (BRM)",
       "sponsor",
-      "service owner",
       "customer",
-      "service validation and testing practice",
-      "driver",
-      "ITIL value chain activity",
-      "service provider",
-      "utility requirements"
+      "service owner",
+      "service provider"
     ],
     "correct_answer": "customer"
   },
@@ -612,14 +422,9 @@
     "definition": "The sum of functional and emotional interactions with a service and service provider as perceived by a service customer.",
     "options": [
       "user",
-      "service level agreement (SLA)",
-      "service catalogue",
-      "utility requirements",
-      "external customer",
       "internal customer",
-      "warranty requirements",
-      "customer experience (CX)",
-      "value"
+      "service catalogue",
+      "customer experience (CX)"
     ],
     "correct_answer": "customer experience (CX)"
   },
@@ -627,15 +432,10 @@
     "term": "dashboard",
     "definition": "A real-time graphical representation of data. deliver and support The value chain activity that ensures services are delivered and supported according to agreed specifications and stakeholders’ expectations.",
     "options": [
-      "demand",
-      "engage",
       "dashboard",
-      "design and transition",
-      "obtain/build",
-      "plan",
       "ITIL value chain activity",
-      "configuration management system (CMS)",
-      "improve"
+      "obtain/build",
+      "engage"
     ],
     "correct_answer": "dashboard"
   },
@@ -643,15 +443,10 @@
     "term": "demand",
     "definition": "Input to the service value system based on opportunities and needs from internal and external stakeholders.",
     "options": [
-      "engage",
-      "service relationship management",
-      "sourcing",
-      "business analysis practice",
-      "information and technology",
-      "four dimensions of service management",
-      "IT service",
       "demand",
-      "third party"
+      "four dimensions of service management",
+      "business analysis practice",
+      "information and technology"
     ],
     "correct_answer": "demand"
   },
@@ -659,15 +454,10 @@
     "term": "deployment",
     "definition": "The movement of any service component into any environment.",
     "options": [
-      "acceptance criteria",
-      "configuration item (CI)",
-      "deployment management practice",
-      "pilot",
-      "development environment",
-      "deployment",
       "live",
-      "IT asset",
-      "live environment"
+      "deployment management practice",
+      "development environment",
+      "deployment"
     ],
     "correct_answer": "deployment"
   },
@@ -675,15 +465,10 @@
     "term": "deployment management practice",
     "definition": "The practice of moving new or changed hardware, software, documentation, processes, or any other service component to live environments.",
     "options": [
-      "release management practice",
-      "IT asset",
-      "deployment management practice",
-      "operational technology",
-      "service validation and testing practice",
-      "ITIL",
-      "IT infrastructure",
       "configuration item (CI)",
-      "deployment"
+      "deployment management practice",
+      "deployment",
+      "ITIL"
     ],
     "correct_answer": "deployment management practice"
   },
@@ -691,15 +476,10 @@
     "term": "design and transition",
     "definition": "The value chain activity that ensures products and services continually meet stakeholder expectations for quality, costs, and time to market.",
     "options": [
-      "plan",
-      "dashboard",
-      "design and transition",
-      "organizational velocity",
-      "improve",
-      "obtain/build",
-      "engage",
       "ITIL value chain activity",
-      "service validation and testing practice"
+      "improve",
+      "service validation and testing practice",
+      "design and transition"
     ],
     "correct_answer": "design and transition"
   },
@@ -707,15 +487,10 @@
     "term": "design thinking",
     "definition": "A practical and human-centred approach used by product and service designers to solve complex problems and find practical and creative solutions that meet the needs of an organization and its customers.",
     "options": [
-      "digital transformation",
-      "minimum viable product (MVP)",
-      "availability management practice",
-      "information security policy",
-      "business analysis practice",
-      "organizational change management",
       "service value system (SVS)",
-      "design thinking",
-      "infrastructure and platform management"
+      "information security policy",
+      "organizational change management",
+      "design thinking"
     ],
     "correct_answer": "design thinking"
   },
@@ -723,14 +498,9 @@
     "term": "development environment",
     "definition": "An environment used to create or modify IT services or applications.",
     "options": [
-      "environment",
-      "development environment",
-      "live",
-      "business analysis practice",
-      "pilot",
       "live environment",
-      "product",
-      "value stream",
+      "development environment",
+      "environment",
       "deployment"
     ],
     "correct_answer": "development environment"
@@ -739,15 +509,10 @@
     "term": "DevOps",
     "definition": "An organizational culture that aims to improve the flow of value to customers. DevOps focuses on culture, automation, Lean, measurement, and sharing (CALMS).",
     "options": [
+      "service level management practice",
       "Lean",
       "service",
-      "service level management practice",
-      "DevOps",
-      "metric",
-      "business relationship manager (BRM)",
-      "four dimensions of service management",
-      "escalation",
-      "ITIL value chain activity"
+      "DevOps"
     ],
     "correct_answer": "DevOps"
   },
@@ -755,14 +520,9 @@
     "term": "digital transformation",
     "definition": "The evolution of traditional business models to meet the needs of highly empowered customers, with technology playing an enabling role.",
     "options": [
-      "availability management practice",
-      "continual improvement practice",
-      "business analysis practice",
+      "digital transformation",
       "service level management practice",
       "design thinking",
-      "digital transformation",
-      "service",
-      "IT service",
       "business relationship manager (BRM)"
     ],
     "correct_answer": "digital transformation"
@@ -771,15 +531,10 @@
     "term": "disaster",
     "definition": "A sudden unplanned event that causes great damage or serious loss to an organization. A disaster results in an organization failing to provide critical business functions for some predetermined minimum period of time.",
     "options": [
+      "quick win",
       "disaster",
       "call/contact centre",
-      "recovery time objective (RTO)",
-      "business impact analysis (BIA)",
-      "service provider",
-      "third party",
-      "quick win",
-      "organizational resilience",
-      "reliability"
+      "organizational resilience"
     ],
     "correct_answer": "disaster"
   },
@@ -787,15 +542,10 @@
     "term": "disaster recovery plans",
     "definition": "A set of clearly defined plans related to how an organization will recover from a disaster as well as return to a pre-disaster condition, considering the four dimensions of service management.",
     "options": [
+      "improve",
       "information and technology",
       "disaster recovery plans",
-      "programme",
-      "value streams and processes",
-      "partners and suppliers",
-      "improve",
-      "service financial management practice",
-      "organizations and people",
-      "plan"
+      "partners and suppliers"
     ],
     "correct_answer": "disaster recovery plans"
   },
@@ -803,15 +553,10 @@
     "term": "driver",
     "definition": "Something that influences strategy, objectives, or requirements.",
     "options": [
-      "utility requirements",
-      "organizational resilience",
       "waterfall method",
-      "management system",
-      "service validation and testing practice",
+      "acceptance criteria",
       "driver",
-      "value",
-      "customer",
-      "acceptance criteria"
+      "service validation and testing practice"
     ],
     "correct_answer": "driver"
   },
@@ -819,15 +564,10 @@
     "term": "effectiveness",
     "definition": "A measure of whether the objectives of a practice, service or activity have been achieved. efficiency A measure of whether the right amount of resources have been used by a practice, service, or activity.",
     "options": [
-      "effectiveness",
-      "strategy management practice",
-      "cost",
       "service financial management practice",
-      "maturity",
-      "business impact analysis (BIA)",
-      "performance",
-      "organizational change management",
-      "workforce and talent management practice"
+      "cost",
+      "effectiveness",
+      "maturity"
     ],
     "correct_answer": "effectiveness"
   },
@@ -835,13 +575,8 @@
     "term": "emergency change",
     "definition": "A change that must be introduced as soon as possible.",
     "options": [
-      "event",
-      "baseline",
       "change model",
       "emergency change",
-      "standard change",
-      "post-implementation review (PIR)",
-      "recovery point objective (RPO)",
       "change authority",
       "acceptance criteria"
     ],
@@ -851,15 +586,10 @@
     "term": "engage",
     "definition": "The value chain activity that provides a good understanding of stakeholder needs, transparency, continual engagement, and good relationships with all stakeholders.",
     "options": [
-      "dashboard",
+      "engage",
       "plan",
       "demand",
-      "business analysis practice",
-      "engage",
-      "business relationship manager (BRM)",
-      "obtain/build",
-      "improve",
-      "design and transition"
+      "dashboard"
     ],
     "correct_answer": "engage"
   },
@@ -868,14 +598,9 @@
     "definition": "A subset of the IT infrastructure that is used for a particular purpose, for example a live environment or test environment. Can also mean the external conditions that influence or affect something.",
     "options": [
       "development environment",
-      "product",
       "pilot",
-      "live",
-      "live environment",
-      "sourcing",
-      "environment",
-      "deployment",
-      "technical debt"
+      "product",
+      "environment"
     ],
     "correct_answer": "environment"
   },
@@ -883,14 +608,9 @@
     "term": "error",
     "definition": "A flaw or vulnerability that may cause incidents. error control Problem management activities used to manage known errors.",
     "options": [
-      "information and technology",
       "error",
-      "operational technology",
-      "practice",
       "problem management practice",
       "improve",
-      "value streams and processes",
-      "ITIL service value chain",
       "policy"
     ],
     "correct_answer": "error"
@@ -899,15 +619,10 @@
     "term": "escalation",
     "definition": "The act of sharing awareness or transferring ownership of an issue or work item.",
     "options": [
-      "escalation",
-      "mean time between failures (MTBF)",
-      "specification",
       "recovery",
-      "retire",
-      "availability",
-      "live",
-      "operation",
-      "event"
+      "specification",
+      "event",
+      "escalation"
     ],
     "correct_answer": "escalation"
   },
@@ -915,15 +630,10 @@
     "term": "event",
     "definition": "Any change of state that has significance for the management of a service or other configuration item.",
     "options": [
-      "live",
-      "specification",
-      "mean time between failures (MTBF)",
-      "configuration record",
-      "availability",
-      "operation",
-      "configuration management system (CMS)",
       "event",
-      "change model"
+      "availability",
+      "change model",
+      "operation"
     ],
     "correct_answer": "event"
   },
@@ -931,15 +641,10 @@
     "term": "external customer",
     "definition": "A customer who works for an organization other than the service provider.",
     "options": [
-      "project management practice",
-      "ITIL value chain activity",
       "internal customer",
-      "goods",
-      "service level agreement (SLA)",
-      "customer experience (CX)",
-      "supplier",
+      "service provider",
       "external customer",
-      "service provider"
+      "service level agreement (SLA)"
     ],
     "correct_answer": "external customer"
   },
@@ -947,15 +652,10 @@
     "term": "failure",
     "definition": "A loss of ability to operate to specification, or to deliver the required output or outcome.",
     "options": [
-      "availability",
-      "configuration item (CI)",
-      "risk",
-      "service action",
-      "validation",
       "IT infrastructure",
       "failure",
-      "value stream",
-      "recovery point objective (RPO)"
+      "service action",
+      "validation"
     ],
     "correct_answer": "failure"
   },
@@ -963,15 +663,10 @@
     "term": "feedback loop",
     "definition": "A technique whereby the outputs of one part of a system are used as inputs to the same part of the system.",
     "options": [
-      "internal customer",
       "feedback loop",
-      "identity",
-      "warranty requirements",
-      "demand",
-      "outcome",
       "performance",
-      "process",
-      "validation"
+      "validation",
+      "demand"
     ],
     "correct_answer": "feedback loop"
   },
@@ -980,14 +675,9 @@
     "definition": "The four perspectives that are critical to the effective and efficient facilitation of value for customers and other stakeholders in the form of products and services.",
     "options": [
       "four dimensions of service management",
-      "service level management practice",
-      "plan",
-      "information and technology",
-      "engage",
+      "demand",
       "knowledge management practice",
-      "improve",
-      "design and transition",
-      "demand"
+      "information and technology"
     ],
     "correct_answer": "four dimensions of service management"
   },
@@ -996,14 +686,9 @@
     "definition": "Tangible resources that are transferred or available for transfer from a service provider to a service consumer, together with ownership and associated rights and responsibilities. governance The means by which an organization is directed and controlled.",
     "options": [
       "service provision",
-      "goods",
-      "service consumption",
-      "product",
-      "internal customer",
-      "service financial management practice",
-      "service relationship management",
       "service relationship",
-      "external customer"
+      "goods",
+      "service consumption"
     ],
     "correct_answer": "goods"
   },
@@ -1011,15 +696,10 @@
     "term": "identity",
     "definition": "A unique name that is used to identify and grant system access rights to a user, person, or role.",
     "options": [
-      "risk assessment",
-      "performance",
-      "service owner",
-      "change authority",
       "business relationship manager (BRM)",
-      "identity",
-      "sponsor",
-      "user",
-      "service provider"
+      "change authority",
+      "performance",
+      "identity"
     ],
     "correct_answer": "identity"
   },
@@ -1027,15 +707,10 @@
     "term": "improve",
     "definition": "The value chain activity that ensures continual improvement of products, services, and practices across all value chain activities and the four dimensions of service management.",
     "options": [
-      "engage",
-      "information and technology",
       "design and transition",
-      "plan",
-      "continual improvement practice",
-      "value streams and processes",
       "obtain/build",
       "improve",
-      "partners and suppliers"
+      "engage"
     ],
     "correct_answer": "improve"
   },
@@ -1043,15 +718,10 @@
     "term": "incident",
     "definition": "An unplanned interruption to a service or reduction in the quality of a service. incident management The practice of minimizing the negative impact of incidents by restoring normal service operation as quickly as possible.",
     "options": [
-      "error",
-      "major incident",
       "business impact analysis (BIA)",
-      "workaround",
-      "service financial management practice",
-      "problem management practice",
       "ITIL",
-      "incident",
-      "recovery"
+      "recovery",
+      "incident"
     ],
     "correct_answer": "incident"
   },
@@ -1059,15 +729,10 @@
     "term": "information and technology",
     "definition": "One of the four dimensions of service management. It includes the information and knowledge used to deliver services, and the information and technologies used to manage all aspects of the service value system.",
     "options": [
-      "demand",
       "plan",
-      "partners and suppliers",
-      "value streams and processes",
-      "improve",
+      "configuration management system (CMS)",
       "information and technology",
-      "information security policy",
-      "disaster recovery plans",
-      "configuration management system (CMS)"
+      "improve"
     ],
     "correct_answer": "information and technology"
   },
@@ -1075,15 +740,10 @@
     "term": "information security management practice",
     "definition": "The practice of protecting an organization by understanding and managing risks to the confidentiality, integrity, and availability of information.",
     "options": [
-      "architecture management practice",
-      "information security policy",
-      "project management practice",
+      "risk management practice",
       "maturity",
-      "information security management practice",
-      "organizational change management",
-      "knowledge management practice",
-      "IT asset management practice",
-      "risk management practice"
+      "information security policy",
+      "information security management practice"
     ],
     "correct_answer": "information security management practice"
   },
@@ -1091,15 +751,10 @@
     "term": "information security policy",
     "definition": "The policy that governs an organization’s approach to information security management.",
     "options": [
-      "change model",
-      "information security management practice",
-      "service financial management practice",
       "information security policy",
-      "information and technology",
-      "integrity",
-      "confidentiality",
-      "configuration management system (CMS)",
-      "knowledge management practice"
+      "information security management practice",
+      "knowledge management practice",
+      "service financial management practice"
     ],
     "correct_answer": "information security policy"
   },
@@ -1107,14 +762,9 @@
     "term": "infrastructure and platform management",
     "definition": "practice The practice of overseeing the infrastructure and platforms used by an organization. This enables the monitoring of technology solutions available, including solutions from third parties.",
     "options": [
-      "release management practice",
-      "architecture management practice",
-      "risk management practice",
       "service design practice",
-      "maturity",
-      "project management practice",
-      "relationship management practice",
-      "information security management practice",
+      "risk management practice",
+      "architecture management practice",
       "infrastructure and platform management"
     ],
     "correct_answer": "infrastructure and platform management"
@@ -1123,15 +773,10 @@
     "term": "integrity",
     "definition": "A security objective that ensures information is only modified by authorized personnel and activities.",
     "options": [
-      "maintainability",
-      "resolution",
-      "confidentiality",
-      "information security policy",
-      "key performance indicator (KPI)",
       "integrity",
-      "configuration management system (CMS)",
-      "improve",
-      "IT service"
+      "IT service",
+      "resolution",
+      "maintainability"
     ],
     "correct_answer": "integrity"
   },
@@ -1139,15 +784,10 @@
     "term": "internal customer",
     "definition": "A customer who works for the same organization as the service provider.",
     "options": [
-      "external customer",
-      "internal customer",
-      "goods",
-      "service provider",
-      "ITIL value chain activity",
-      "service level agreement (SLA)",
       "supplier",
-      "project management practice",
-      "customer experience (CX)"
+      "internal customer",
+      "service level agreement (SLA)",
+      "project management practice"
     ],
     "correct_answer": "internal customer"
   },
@@ -1155,15 +795,10 @@
     "term": "Internet of Things",
     "definition": "The interconnection of devices via the internet that were not traditionally thought of as IT assets, but now include embedded computing capability and network connectivity.",
     "options": [
-      "service relationship",
-      "operational technology",
-      "charging",
-      "IT asset management practice",
-      "service offering",
-      "Internet of Things",
       "asset register",
-      "service provision",
-      "outsourcing"
+      "service offering",
+      "charging",
+      "Internet of Things"
     ],
     "correct_answer": "Internet of Things"
   },
@@ -1171,15 +806,10 @@
     "term": "IT asset",
     "definition": "Any financially valuable component that can contribute to the delivery of an IT product or service.",
     "options": [
-      "specification",
-      "deployment",
-      "validation",
-      "live environment",
-      "retire",
       "configuration item (CI)",
-      "service owner",
-      "operation",
-      "IT asset"
+      "validation",
+      "IT asset",
+      "operation"
     ],
     "correct_answer": "IT asset"
   },
@@ -1187,15 +817,10 @@
     "term": "IT asset management practice",
     "definition": "The practice of planning and managing the full lifecycle of all IT assets.",
     "options": [
-      "ITIL",
-      "project management practice",
-      "IT asset management practice",
-      "problem management practice",
-      "change enablement practice",
       "maturity",
-      "information security management practice",
       "organizational change management",
-      "lifecycle"
+      "lifecycle",
+      "IT asset management practice"
     ],
     "correct_answer": "IT asset management practice"
   },
@@ -1204,14 +829,9 @@
     "definition": "All of the hardware, software, networks, and facilities that are required to develop, test, deliver, monitor, manage, and support IT services.",
     "options": [
       "configuration item (CI)",
-      "deployment management practice",
-      "information and technology",
-      "failure",
       "ITIL service value chain",
-      "dashboard",
-      "IT infrastructure",
       "service action",
-      "operational technology"
+      "IT infrastructure"
     ],
     "correct_answer": "IT infrastructure"
   },
@@ -1219,15 +839,10 @@
     "term": "IT service",
     "definition": "A service based on the use of information technology.",
     "options": [
-      "release management practice",
-      "confidentiality",
       "IT service",
-      "retire",
-      "release",
-      "recovery point objective (RPO)",
       "knowledge management practice",
       "information security policy",
-      "configuration management system (CMS)"
+      "confidentiality"
     ],
     "correct_answer": "IT service"
   },
@@ -1235,14 +850,9 @@
     "term": "ITIL",
     "definition": "Best-practice guidance for IT service management.",
     "options": [
-      "event",
-      "incident",
-      "continual improvement practice",
       "IT asset management practice",
       "ITIL",
-      "service financial management practice",
-      "metric",
-      "business impact analysis (BIA)",
+      "incident",
       "change model"
     ],
     "correct_answer": "ITIL"
@@ -1251,15 +861,10 @@
     "term": "ITIL guiding principles",
     "definition": "Recommendations that can guide an organization in all circumstances, regardless of changes in its goals, strategies, type of work, or management structure.",
     "options": [
-      "service architecture",
-      "information security policy",
-      "ITIL guiding principles",
       "programme",
-      "organizational change management",
-      "strategy management practice",
       "service value system (SVS)",
-      "service financial management practice",
-      "change model"
+      "ITIL guiding principles",
+      "service architecture"
     ],
     "correct_answer": "ITIL guiding principles"
   },
@@ -1267,15 +872,10 @@
     "term": "ITIL service value chain",
     "definition": "An operating model for service providers that covers all the key activities required to effectively manage products and services.",
     "options": [
-      "availability",
-      "error",
-      "live",
-      "IT infrastructure",
-      "risk management practice",
-      "organizations and people",
       "service consumption",
-      "improve",
-      "ITIL service value chain"
+      "error",
+      "ITIL service value chain",
+      "IT infrastructure"
     ],
     "correct_answer": "ITIL service value chain"
   },
@@ -1283,15 +883,10 @@
     "term": "ITIL value chain activity",
     "definition": "A step of the value chain that an organization takes in the creation of value.",
     "options": [
-      "obtain/build",
-      "service relationship management",
-      "improve",
-      "engage",
       "product",
-      "plan",
       "ITIL value chain activity",
-      "design and transition",
-      "supplier"
+      "service relationship management",
+      "obtain/build"
     ],
     "correct_answer": "ITIL value chain activity"
   },
@@ -1299,15 +894,10 @@
     "term": "Kanban",
     "definition": "A method for visualizing work, identifying potential blockages and resource conflicts, and managing work in progress.",
     "options": [
-      "control",
-      "practice",
       "cost",
-      "Kanban",
-      "IT asset management practice",
-      "escalation",
-      "baseline",
       "information security management practice",
-      "problem management practice"
+      "baseline",
+      "Kanban"
     ],
     "correct_answer": "Kanban"
   },
@@ -1315,15 +905,10 @@
     "term": "key performance indicator (KPI)",
     "definition": "An important metric used to evaluate the success in meeting an objective.",
     "options": [
-      "confidentiality",
-      "mean time between failures (MTBF)",
-      "baseline",
-      "risk assessment",
-      "control",
-      "post-implementation review (PIR)",
-      "integrity",
       "mean time to restore service (MTRS)",
-      "key performance indicator (KPI)"
+      "baseline",
+      "key performance indicator (KPI)",
+      "risk assessment"
     ],
     "correct_answer": "key performance indicator (KPI)"
   },
@@ -1331,15 +916,10 @@
     "term": "knowledge management practice",
     "definition": "The practice of maintaining and improving the effective, efficient, and convenient use of information and knowledge across an organization.",
     "options": [
-      "knowledge management practice",
-      "workforce and talent management practice",
-      "information security policy",
-      "project management practice",
-      "maturity",
-      "information security management practice",
       "service design practice",
-      "continual improvement practice",
-      "IT service"
+      "project management practice",
+      "knowledge management practice",
+      "maturity"
     ],
     "correct_answer": "knowledge management practice"
   },
@@ -1347,15 +927,10 @@
     "term": "known error",
     "definition": "A problem that has been analysed but has not been resolved.",
     "options": [
+      "error",
       "business analysis practice",
       "utility requirements",
-      "practice",
-      "service request",
-      "workaround",
-      "effectiveness",
-      "known error",
-      "error",
-      "best practice"
+      "known error"
     ],
     "correct_answer": "known error"
   },
@@ -1363,15 +938,10 @@
     "term": "Lean",
     "definition": "An approach that focuses on improving workflows by maximizing value through the elimination of waste.",
     "options": [
-      "asset register",
-      "information security policy",
-      "change model",
       "Lean",
-      "waterfall method",
+      "information security policy",
       "demand",
-      "ITIL value chain activity",
-      "systems thinking",
-      "DevOps"
+      "systems thinking"
     ],
     "correct_answer": "Lean"
   },
@@ -1379,15 +949,10 @@
     "term": "lifecycle",
     "definition": "The full set of stages, transitions, and associated statuses in the life of a service, product, practice, or other entity.",
     "options": [
-      "maintainability",
-      "sponsor",
-      "change enablement practice",
-      "IT asset management practice",
-      "ITIL",
+      "lifecycle",
       "monitoring",
-      "validation",
-      "mission",
-      "lifecycle"
+      "sponsor",
+      "maintainability"
     ],
     "correct_answer": "lifecycle"
   },
@@ -1395,15 +960,10 @@
     "term": "live",
     "definition": "Refers to a service or other configuration item operating in the live environment.",
     "options": [
-      "event",
-      "pilot",
-      "live",
-      "availability",
-      "retire",
-      "operation",
+      "specification",
       "mean time between failures (MTBF)",
-      "product",
-      "specification"
+      "retire",
+      "live"
     ],
     "correct_answer": "live"
   },
@@ -1411,15 +971,10 @@
     "term": "live environment",
     "definition": "A controlled environment used in the delivery of IT services to service consumers.",
     "options": [
-      "pilot",
-      "IT asset",
-      "service owner",
-      "development environment",
-      "live environment",
-      "technical debt",
       "deployment",
-      "service provider",
-      "live"
+      "live environment",
+      "live",
+      "technical debt"
     ],
     "correct_answer": "live environment"
   },
@@ -1427,15 +982,10 @@
     "term": "maintainability",
     "definition": "The ease with which a service or other entity can be repaired or modified.",
     "options": [
-      "status",
-      "lifecycle",
-      "mission",
       "resolution",
-      "integrity",
-      "sponsor",
       "maintainability",
-      "validation",
-      "monitoring"
+      "integrity",
+      "sponsor"
     ],
     "correct_answer": "maintainability"
   },
@@ -1444,14 +994,9 @@
     "definition": "An incident with significant business impact, requiring an immediate coordinated resolution.",
     "options": [
       "call",
-      "call/contact centre",
-      "cost centre",
+      "service desk",
       "control",
-      "major incident",
-      "business impact analysis (BIA)",
-      "workaround",
-      "incident",
-      "service desk"
+      "major incident"
     ],
     "correct_answer": "major incident"
   },
@@ -1459,15 +1004,10 @@
     "term": "management system",
     "definition": "Interrelated or interacting elements that establish policy and objectives and enable the achievement of those objectives.",
     "options": [
-      "system",
-      "architecture management practice",
-      "driver",
-      "information security policy",
-      "waterfall method",
       "management system",
       "process",
-      "critical success factor (CSF)",
-      "recovery point objective (RPO)"
+      "system",
+      "waterfall method"
     ],
     "correct_answer": "management system"
   },
@@ -1475,15 +1015,10 @@
     "term": "maturity",
     "definition": "A measure of the reliability, efficiency and effectiveness of an organization, practice, or process.",
     "options": [
-      "mission",
-      "organizational velocity",
-      "project management practice",
-      "effectiveness",
-      "service design practice",
-      "maturity",
       "risk management practice",
-      "capability",
-      "performance"
+      "service design practice",
+      "project management practice",
+      "maturity"
     ],
     "correct_answer": "maturity"
   },
@@ -1491,15 +1026,10 @@
     "term": "mean time between failures (MTBF)",
     "definition": "A metric of how frequently a service or other configuration item fails.",
     "options": [
-      "recovery",
+      "event",
       "availability",
-      "specification",
       "retire",
-      "operation",
-      "mean time between failures (MTBF)",
-      "mean time to restore service (MTRS)",
-      "live",
-      "event"
+      "mean time between failures (MTBF)"
     ],
     "correct_answer": "mean time between failures (MTBF)"
   },
@@ -1508,14 +1038,9 @@
     "definition": "A metric of how quickly a service is restored after a failure.",
     "options": [
       "mean time between failures (MTBF)",
-      "recovery",
-      "mean time to restore service (MTRS)",
-      "key performance indicator (KPI)",
-      "culture",
       "architecture management practice",
-      "baseline",
-      "post-implementation review (PIR)",
-      "recovery point objective (RPO)"
+      "culture",
+      "mean time to restore service (MTRS)"
     ],
     "correct_answer": "mean time to restore service (MTRS)"
   },
@@ -1523,15 +1048,10 @@
     "term": "measurement and reporting",
     "definition": "The practice of supporting good decisionmaking and continual improvement by decreasing levels of uncertainty.",
     "options": [
-      "supplier management practice",
-      "relationship management practice",
       "improve",
+      "measurement and reporting",
       "engage",
-      "availability management practice",
-      "service request management practice",
-      "capacity and performance management",
-      "service financial management practice",
-      "measurement and reporting"
+      "relationship management practice"
     ],
     "correct_answer": "measurement and reporting"
   },
@@ -1539,15 +1059,10 @@
     "term": "metric",
     "definition": "A measurement or calculation that is monitored or reported for management and improvement.",
     "options": [
-      "partners and suppliers",
-      "configuration management system (CMS)",
-      "information security policy",
-      "change model",
-      "event",
-      "improve",
-      "continual improvement practice",
       "ITIL",
-      "metric"
+      "change model",
+      "metric",
+      "information security policy"
     ],
     "correct_answer": "metric"
   },
@@ -1555,14 +1070,9 @@
     "term": "minimum viable product (MVP)",
     "definition": "A product with just enough features to satisfy early customers, and to provide feedback for future product development.",
     "options": [
-      "service provider",
-      "operation",
-      "IT asset",
-      "minimum viable product (MVP)",
-      "specification",
-      "retire",
-      "business relationship manager (BRM)",
       "release management practice",
+      "service provider",
+      "minimum viable product (MVP)",
       "design thinking"
     ],
     "correct_answer": "minimum viable product (MVP)"
@@ -1571,14 +1081,9 @@
     "term": "mission",
     "definition": "A short but complete description of the overall purpose and intentions of an organization model A representation of a system, practice, process, service, or other entity that is used to understand and predict its behaviour and relationships.",
     "options": [
-      "risk management practice",
-      "maturity",
       "service design practice",
-      "project management practice",
-      "service portfolio",
       "sponsor",
       "mission",
-      "monitoring",
       "status"
     ],
     "correct_answer": "mission"
@@ -1587,15 +1092,10 @@
     "term": "modelling",
     "definition": "The activity of creating, maintaining, and utilizing models.",
     "options": [
-      "business relationship manager (BRM)",
-      "output",
+      "modelling",
       "capacity planning",
-      "risk assessment",
       "cost",
-      "work instruction",
-      "procedure",
-      "operation",
-      "modelling"
+      "procedure"
     ],
     "correct_answer": "modelling"
   },
@@ -1603,15 +1103,10 @@
     "term": "monitoring",
     "definition": "Repeated observation of a system, practice, process, service, or other entity to detect events and to ensure that the current status is known.",
     "options": [
-      "monitoring and event management practice",
-      "mission",
-      "performance",
-      "lifecycle",
       "monitoring",
-      "problem management practice",
       "maturity",
-      "capacity and performance management",
-      "validation"
+      "monitoring and event management practice",
+      "problem management practice"
     ],
     "correct_answer": "monitoring"
   },
@@ -1620,14 +1115,9 @@
     "definition": "The practice of systematically observing services and service components, and recording and reporting selected changes of state identified as events.",
     "options": [
       "change schedule",
-      "project management practice",
-      "monitoring",
-      "ITIL",
-      "change enablement practice",
+      "IT asset management practice",
       "monitoring and event management practice",
-      "event",
-      "organizational change management",
-      "IT asset management practice"
+      "monitoring"
     ],
     "correct_answer": "monitoring and event management practice"
   },
@@ -1635,15 +1125,10 @@
     "term": "obtain/build",
     "definition": "The value chain activity that ensures service components are available when and where they are needed, and that they meet agreed specifications.",
     "options": [
-      "ITIL value chain activity",
-      "service configuration management practice",
-      "improve",
-      "service relationship management",
-      "plan",
       "obtain/build",
       "dashboard",
-      "design and transition",
-      "engage"
+      "ITIL value chain activity",
+      "plan"
     ],
     "correct_answer": "obtain/build"
   },
@@ -1651,15 +1136,10 @@
     "term": "operation",
     "definition": "The routine running and management of an activity, product, service, or other configuration item.",
     "options": [
-      "mean time between failures (MTBF)",
-      "event",
-      "reliability",
-      "operation",
-      "recovery",
-      "capability",
-      "retire",
       "specification",
-      "live"
+      "operation",
+      "capability",
+      "recovery"
     ],
     "correct_answer": "operation"
   },
@@ -1667,15 +1147,10 @@
     "term": "operational technology",
     "definition": "The hardware and software solutions that detect or cause changes in physical processes through direct monitoring and/or control of physical devices such as valves, pumps, etc.",
     "options": [
-      "deployment management practice",
-      "error",
-      "IT infrastructure",
-      "infrastructure and platform management",
+      "continuous deployment",
       "operational technology",
-      "change schedule",
-      "policy",
-      "programme",
-      "continuous deployment"
+      "error",
+      "change schedule"
     ],
     "correct_answer": "operational technology"
   },
@@ -1683,15 +1158,10 @@
     "term": "organization",
     "definition": "A person or a group of people that has its own functions with responsibilities, authorities, and relationships to achieve its objectives.",
     "options": [
-      "partnership",
-      "business relationship manager (BRM)",
-      "risk",
-      "organization",
-      "change authority",
-      "driver",
       "value streams and processes",
-      "culture",
-      "workforce and talent management practice"
+      "business relationship manager (BRM)",
+      "partnership",
+      "organization"
     ],
     "correct_answer": "organization"
   },
@@ -1699,15 +1169,10 @@
     "term": "organizational change management",
     "definition": "practice The practice of ensuring that changes in an organization are smoothly and successfully implemented and that lasting benefits are achieved by managing the human aspects of the changes.",
     "options": [
-      "organizational change management",
-      "risk management practice",
-      "control",
-      "information security management practice",
-      "supplier management practice",
       "workforce and talent management practice",
-      "change enablement practice",
-      "service financial management practice",
-      "project management practice"
+      "organizational change management",
+      "information security management practice",
+      "control"
     ],
     "correct_answer": "organizational change management"
   },
@@ -1715,15 +1180,10 @@
     "term": "organizational resilience",
     "definition": "The ability of an organization to anticipate, prepare for, respond to, and adapt to unplanned external influences.",
     "options": [
-      "capability",
-      "external customer",
-      "organizational resilience",
-      "disaster",
-      "supplier",
-      "organizational velocity",
-      "driver",
       "internal customer",
-      "third party"
+      "capability",
+      "disaster",
+      "organizational resilience"
     ],
     "correct_answer": "organizational resilience"
   },
@@ -1731,15 +1191,10 @@
     "term": "organizational velocity",
     "definition": "The speed, effectiveness, and efficiency with which an organization operates. Organizational velocity influences time to market, quality, safety, costs, and risks.",
     "options": [
-      "design and transition",
-      "supplier management practice",
-      "organizational velocity",
-      "business case",
-      "maturity",
       "information security management practice",
-      "recovery time objective (RTO)",
-      "organizational resilience",
-      "risk management practice"
+      "supplier management practice",
+      "maturity",
+      "organizational velocity"
     ],
     "correct_answer": "organizational velocity"
   },
@@ -1747,15 +1202,10 @@
     "term": "organizations and people",
     "definition": "One of the four dimensions of service management. It ensures that the way an organization is structured and managed, as well as its roles, responsibilities, and systems of authority and communication, is well defined and supports its overall strategy and operating model.",
     "options": [
-      "improve",
-      "value streams and processes",
-      "disaster recovery plans",
-      "information security policy",
-      "plan",
-      "information and technology",
-      "mission",
       "organizations and people",
-      "partners and suppliers"
+      "information and technology",
+      "disaster recovery plans",
+      "improve"
     ],
     "correct_answer": "organizations and people"
   },
@@ -1763,15 +1213,10 @@
     "term": "outcome",
     "definition": "A result for a stakeholder enabled by one or more outputs.",
     "options": [
-      "process",
-      "design and transition",
-      "call",
-      "supplier",
       "outcome",
+      "third party",
       "project",
-      "feedback loop",
-      "engage",
-      "third party"
+      "call"
     ],
     "correct_answer": "outcome"
   },
@@ -1779,15 +1224,10 @@
     "term": "output",
     "definition": "A tangible or intangible deliverable of an activity.",
     "options": [
-      "operation",
       "modelling",
-      "output",
-      "work instruction",
       "recovery point objective (RPO)",
-      "recovery",
-      "procedure",
       "cost",
-      "risk assessment"
+      "output"
     ],
     "correct_answer": "output"
   },
@@ -1795,15 +1235,10 @@
     "term": "outsourcing",
     "definition": "The process of having external suppliers provide products and services that were previously provided internally.",
     "options": [
-      "service provider",
-      "value stream",
-      "outsourcing",
-      "procedure",
       "maturity",
-      "service validation and testing practice",
-      "supplier management practice",
-      "service portfolio",
-      "control"
+      "outsourcing",
+      "value stream",
+      "supplier management practice"
     ],
     "correct_answer": "outsourcing"
   },
@@ -1811,15 +1246,10 @@
     "term": "partners and suppliers",
     "definition": "One of the four dimensions of service management. It encompasses the relationships an organization has with other organizations that are involved in the design, development, deployment, delivery, support, and/or continual improvement of services.",
     "options": [
-      "organizations and people",
-      "improve",
-      "continual improvement practice",
       "partners and suppliers",
-      "information and technology",
+      "organizations and people",
       "plan",
-      "value streams and processes",
-      "disaster recovery plans",
-      "service provision"
+      "improve"
     ],
     "correct_answer": "partners and suppliers"
   },
@@ -1827,15 +1257,10 @@
     "term": "partnership",
     "definition": "A relationship between two organizations that involves working closely together to achieve common goals and objectives.",
     "options": [
-      "driver",
-      "partnership",
-      "best practice",
-      "value streams and processes",
-      "service relationship",
+      "transaction",
       "service provider",
-      "organization",
-      "risk",
-      "transaction"
+      "partnership",
+      "organization"
     ],
     "correct_answer": "partnership"
   },
@@ -1843,15 +1268,10 @@
     "term": "performance",
     "definition": "A measure of what is achieved or delivered by a system, person, team, practice, or service.",
     "options": [
+      "performance",
       "maturity",
       "organizational change management",
-      "service design practice",
-      "identity",
-      "effectiveness",
-      "performance",
-      "third party",
-      "monitoring",
-      "project management practice"
+      "service design practice"
     ],
     "correct_answer": "performance"
   },
@@ -1859,15 +1279,10 @@
     "term": "pilot",
     "definition": "A test implementation of a service with a limited scope in a live environment.",
     "options": [
-      "development environment",
-      "environment",
-      "product",
-      "deployment",
-      "pilot",
-      "live environment",
       "post-implementation review (PIR)",
       "live",
-      "technical debt"
+      "live environment",
+      "pilot"
     ],
     "correct_answer": "pilot"
   },
@@ -1875,15 +1290,10 @@
     "term": "plan",
     "definition": "The value chain activity that ensures a shared understanding of the vision, current status, and improvement direction for all four dimensions and all products and services across an organization.",
     "options": [
-      "obtain/build",
-      "improve",
-      "ITIL value chain activity",
-      "plan",
-      "engage",
-      "dashboard",
       "design and transition",
-      "partners and suppliers",
-      "four dimensions of service management"
+      "plan",
+      "improve",
+      "ITIL value chain activity"
     ],
     "correct_answer": "plan"
   },
@@ -1891,15 +1301,10 @@
     "term": "policy",
     "definition": "Formally documented management expectations and intentions, used to direct decisions and activities.",
     "options": [
-      "ITIL",
-      "service consumption",
-      "error",
       "policy",
-      "change model",
+      "error",
       "improve",
-      "event",
-      "programme",
-      "value streams and processes"
+      "programme"
     ],
     "correct_answer": "policy"
   },
@@ -1907,15 +1312,10 @@
     "term": "portfolio management practice",
     "definition": "The practice of ensuring that an organization has the right mix of programmes, projects, products, and services to execute its strategy within its funding and resource constraints.",
     "options": [
-      "portfolio management practice",
-      "service financial management practice",
-      "service design practice",
       "workforce and talent management practice",
-      "organizational change management",
-      "project management practice",
-      "risk management practice",
+      "service financial management practice",
       "service validation and testing practice",
-      "supplier management practice"
+      "portfolio management practice"
     ],
     "correct_answer": "portfolio management practice"
   },
@@ -1923,15 +1323,10 @@
     "term": "post-implementation review (PIR)",
     "definition": "A review after the implementation of a change, to evaluate success and identify opportunities for improvement.",
     "options": [
-      "metric",
-      "risk assessment",
-      "emergency change",
-      "key performance indicator (KPI)",
       "event",
-      "post-implementation review (PIR)",
-      "mean time to restore service (MTRS)",
-      "change authority",
-      "change model"
+      "change model",
+      "emergency change",
+      "post-implementation review (PIR)"
     ],
     "correct_answer": "post-implementation review (PIR)"
   },
@@ -1939,14 +1334,9 @@
     "term": "practice",
     "definition": "A set of organizational resources designed for performing work or accomplishing an objective. problem A cause, or potential cause, of one or more incidents.",
     "options": [
-      "problem management practice",
-      "error",
       "service offering",
       "Kanban",
-      "configuration",
-      "resolution",
       "business case",
-      "product",
       "practice"
     ],
     "correct_answer": "practice"
@@ -1955,15 +1345,10 @@
     "term": "problem management practice",
     "definition": "The practice of reducing the likelihood and impact of incidents by identifying actual and potential causes of incidents, and managing workarounds and known errors.",
     "options": [
-      "incident",
-      "error",
-      "Kanban",
-      "monitoring",
-      "workaround",
-      "problem management practice",
-      "information security management practice",
       "practice",
-      "IT asset management practice"
+      "incident",
+      "workaround",
+      "problem management practice"
     ],
     "correct_answer": "problem management practice"
   },
@@ -1971,15 +1356,10 @@
     "term": "procedure",
     "definition": "A documented way to carry out an activity or a process.",
     "options": [
-      "risk assessment",
       "cost",
-      "capability",
-      "specification",
-      "modelling",
-      "best practice",
-      "work instruction",
+      "output",
       "procedure",
-      "output"
+      "risk assessment"
     ],
     "correct_answer": "procedure"
   },
@@ -1987,15 +1367,10 @@
     "term": "process",
     "definition": "A set of interrelated or interacting activities that transform inputs into outputs. Processes define the sequence of activities and their dependencies.",
     "options": [
-      "policy",
-      "outcome",
       "process",
-      "service level",
-      "programme",
-      "configuration management system (CMS)",
-      "feedback loop",
+      "outcome",
       "service portfolio",
-      "management system"
+      "configuration management system (CMS)"
     ],
     "correct_answer": "process"
   },
@@ -2003,15 +1378,10 @@
     "term": "product",
     "definition": "A configuration of an organization’s resources designed to offer value for a consumer. production environment See live environment.",
     "options": [
-      "service consumption",
-      "pilot",
-      "live",
-      "goods",
-      "service offering",
-      "capability",
-      "service financial management practice",
+      "ITIL value chain activity",
       "product",
-      "ITIL value chain activity"
+      "capability",
+      "live"
     ],
     "correct_answer": "product"
   },
@@ -2019,15 +1389,10 @@
     "term": "programme",
     "definition": "A set of related projects and activities, and an organization structure created to direct and oversee them.",
     "options": [
-      "service architecture",
-      "ITIL guiding principles",
-      "disaster recovery plans",
-      "programme",
       "process",
-      "policy",
+      "disaster recovery plans",
       "service portfolio",
-      "portfolio management practice",
-      "project"
+      "programme"
     ],
     "correct_answer": "programme"
   },
@@ -2035,13 +1400,8 @@
     "term": "project",
     "definition": "A temporary structure that is created for the purpose of delivering one or more outputs (or products) according to an agreed business case.",
     "options": [
-      "continual improvement practice",
       "service design practice",
       "feedback loop",
-      "availability",
-      "cost centre",
-      "programme",
-      "outcome",
       "dashboard",
       "project"
     ],
@@ -2051,15 +1411,10 @@
     "term": "project management practice",
     "definition": "The practice of ensuring that all an organization’s proects are successfully delivered.",
     "options": [
-      "risk management practice",
-      "project management practice",
       "service financial management practice",
-      "organizational change management",
-      "supplier management practice",
-      "workforce and talent management practice",
-      "service design practice",
       "portfolio management practice",
-      "maturity"
+      "project management practice",
+      "supplier management practice"
     ],
     "correct_answer": "project management practice"
   },
@@ -2068,14 +1423,9 @@
     "definition": "An improvement that is expected to provide a return on investment in a short period of time with relatively small cost and effort. record A document stating results achieved and providing evidence of activities performed.",
     "options": [
       "third party",
-      "service provision",
-      "service level",
-      "disaster",
-      "improve",
       "service relationship management",
-      "quick win",
-      "reliability",
-      "service provider"
+      "disaster",
+      "quick win"
     ],
     "correct_answer": "quick win"
   },
@@ -2085,13 +1435,8 @@
     "options": [
       "event",
       "mean time between failures (MTBF)",
-      "live",
-      "availability",
       "recovery",
-      "specification",
-      "mean time to restore service (MTRS)",
-      "operation",
-      "capability"
+      "mean time to restore service (MTRS)"
     ],
     "correct_answer": "recovery"
   },
@@ -2099,15 +1444,10 @@
     "term": "recovery point objective (RPO)",
     "definition": "The point to which information used by an activity must be restored to enable the activity to operate on resumption.",
     "options": [
-      "output",
-      "mean time to restore service (MTRS)",
-      "emergency change",
       "risk assessment",
-      "modelling",
-      "procedure",
-      "IT service",
-      "recovery point objective (RPO)",
-      "cost"
+      "cost",
+      "mean time to restore service (MTRS)",
+      "recovery point objective (RPO)"
     ],
     "correct_answer": "recovery point objective (RPO)"
   },
@@ -2115,15 +1455,10 @@
     "term": "recovery time objective (RTO)",
     "definition": "The maximum acceptable period of time following a service disruption that can elapse before the lack of business functionality severely impacts the organization.",
     "options": [
-      "continual improvement practice",
-      "workforce and talent management practice",
       "call/contact centre",
-      "third party",
-      "disaster",
-      "reliability",
-      "quick win",
       "recovery time objective (RTO)",
-      "organizational velocity"
+      "reliability",
+      "quick win"
     ],
     "correct_answer": "recovery time objective (RTO)"
   },
@@ -2131,15 +1466,10 @@
     "term": "relationship management practice",
     "definition": "The practice of establishing and nurturing links between an organization and its stakeholders at strategic and tactical levels.",
     "options": [
-      "maturity",
       "information security management practice",
-      "availability management practice",
-      "supplier management practice",
-      "risk management practice",
-      "measurement and reporting",
-      "service design practice",
       "project management practice",
-      "relationship management practice"
+      "relationship management practice",
+      "supplier management practice"
     ],
     "correct_answer": "relationship management practice"
   },
@@ -2147,15 +1477,10 @@
     "term": "release",
     "definition": "A version of a service or other configuration item, or a collection of configuration items, that is made available for use.",
     "options": [
-      "operation",
-      "release",
-      "retire",
-      "live",
       "availability",
+      "release",
       "service configuration management practice",
-      "mean time between failures (MTBF)",
-      "specification",
-      "event"
+      "retire"
     ],
     "correct_answer": "release"
   },
@@ -2163,15 +1488,10 @@
     "term": "release management practice",
     "definition": "The practice of making new and changed services and features available for use.",
     "options": [
-      "release management practice",
-      "knowledge management practice",
-      "big data",
       "service catalogue management practice",
-      "infrastructure and platform management",
+      "big data",
       "service validation and testing practice",
-      "service design practice",
-      "release",
-      "deployment management practice"
+      "release management practice"
     ],
     "correct_answer": "release management practice"
   },
@@ -2179,15 +1499,10 @@
     "term": "reliability",
     "definition": "The ability of a product, service, or other configuration item to perform its intended function for a specified period of time or number of cycles.",
     "options": [
-      "live",
-      "third party",
-      "capability",
-      "availability",
-      "reliability",
-      "operation",
       "retire",
-      "specification",
-      "event"
+      "reliability",
+      "capability",
+      "availability"
     ],
     "correct_answer": "reliability"
   },
@@ -2195,15 +1510,10 @@
     "term": "request catalogue",
     "definition": "A view of the service catalogue, providing details on service requests for existing and new services, which is made available for the user. request for change (RFC) A description of a proposed change used to initiate change enablement.",
     "options": [
-      "release management practice",
+      "request catalogue",
       "release",
-      "confidentiality",
-      "service catalogue management practice",
-      "service request",
-      "change authority",
-      "supplier",
       "service request management practice",
-      "request catalogue"
+      "release management practice"
     ],
     "correct_answer": "request catalogue"
   },
@@ -2211,14 +1521,9 @@
     "term": "resolution",
     "definition": "The action of solving an incident or problem. resource Personnel, material, finance, or other entity that is required for the execution of an activity or the achievement of an objective. Resources used by an organization may be owned by the organization or used according to an agreement with the resource owner.",
     "options": [
-      "strategy management practice",
-      "service action",
-      "capability",
       "cost",
-      "service level agreement (SLA)",
-      "resolution",
-      "practice",
       "service consumption",
+      "resolution",
       "integrity"
     ],
     "correct_answer": "resolution"
@@ -2227,15 +1532,10 @@
     "term": "retire",
     "definition": "The act of permanently withdrawing a product, service, or other configuration item from use.",
     "options": [
-      "release",
-      "retire",
-      "mean time between failures (MTBF)",
-      "operation",
-      "availability",
       "event",
-      "live",
-      "reliability",
-      "specification"
+      "specification",
+      "retire",
+      "live"
     ],
     "correct_answer": "retire"
   },
@@ -2243,15 +1543,10 @@
     "term": "risk",
     "definition": "A possible event that could cause harm or loss, or make it more difficult to achieve objectives. Can also be defined as uncertainty of outcome, and can be used in the context of measuring the probability of positive outcomes as well as negative outcomes.",
     "options": [
-      "value streams and processes",
-      "failure",
-      "organizations and people",
       "service",
+      "value streams and processes",
       "risk",
-      "partnership",
-      "disaster recovery plans",
-      "incident",
-      "organization"
+      "partnership"
     ],
     "correct_answer": "risk"
   },
@@ -2259,15 +1554,10 @@
     "term": "risk assessment",
     "definition": "An activity to identify, analyse, and evaluate risks.",
     "options": [
-      "operation",
-      "cost",
       "procedure",
-      "risk assessment",
-      "output",
       "work instruction",
-      "post-implementation review (PIR)",
-      "key performance indicator (KPI)",
-      "modelling"
+      "risk assessment",
+      "key performance indicator (KPI)"
     ],
     "correct_answer": "risk assessment"
   },
@@ -2275,14 +1565,9 @@
     "term": "risk management practice",
     "definition": "The practice of ensuring that an organization understands and effectively handles risks.",
     "options": [
-      "supplier management practice",
-      "information security management practice",
-      "workforce and talent management practice",
       "portfolio management practice",
-      "maturity",
-      "project management practice",
-      "service financial management practice",
-      "organizational change management",
+      "workforce and talent management practice",
+      "information security management practice",
       "risk management practice"
     ],
     "correct_answer": "risk management practice"
@@ -2291,15 +1576,10 @@
     "term": "service",
     "definition": "A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.",
     "options": [
-      "design and transition",
       "business case",
       "service",
-      "four dimensions of service management",
-      "utility requirements",
-      "digital transformation",
       "information and technology",
-      "ITIL value chain activity",
-      "service level management practice"
+      "design and transition"
     ],
     "correct_answer": "service"
   },
@@ -2307,15 +1587,10 @@
     "term": "service action",
     "definition": "Any action required to deliver a service output to a user. Service actions may be performed by a service provider resource, by service users, or jointly.",
     "options": [
-      "service provision",
       "availability management practice",
-      "user",
+      "service consumption",
       "IT infrastructure",
-      "service level agreement (SLA)",
-      "service action",
-      "resolution",
-      "failure",
-      "service consumption"
+      "service action"
     ],
     "correct_answer": "service action"
   },
@@ -2323,15 +1598,10 @@
     "term": "service architecture",
     "definition": "A view of all the services provided by an organization. It includes interactions between the services, and service models that describe the structure and dynamics of each service.",
     "options": [
-      "service architecture",
       "service consumption",
       "ITIL guiding principles",
-      "programme",
-      "sponsor",
-      "external customer",
-      "supplier",
-      "relationship management practice",
-      "call/contact centre"
+      "service architecture",
+      "relationship management practice"
     ],
     "correct_answer": "service architecture"
   },
@@ -2339,15 +1609,10 @@
     "term": "service catalogue",
     "definition": "Structured information about all the services and service offerings of a service provider, relevant for a specific target audience.",
     "options": [
-      "service relationship management",
-      "business case",
-      "external customer",
-      "service catalogue",
-      "IT service",
-      "service catalogue management practice",
       "service configuration management practice",
-      "internal customer",
-      "service owner"
+      "business case",
+      "IT service",
+      "service catalogue"
     ],
     "correct_answer": "service catalogue"
   },
@@ -2355,15 +1620,10 @@
     "term": "service catalogue management practice",
     "definition": "The practice of providing a single source of consistent information on all services and service offerings, and ensuring that it is available to the relevant audience.",
     "options": [
-      "service catalogue management practice",
-      "service configuration management practice",
-      "confidentiality",
       "release management practice",
-      "service catalogue",
-      "service continuity management practice",
       "service validation and testing practice",
-      "project management practice",
-      "risk management practice"
+      "service catalogue management practice",
+      "service catalogue"
     ],
     "correct_answer": "service catalogue management practice"
   },
@@ -2371,15 +1631,10 @@
     "term": "service configuration management practice",
     "definition": "The practice of ensuring that accurate and reliable information about the configuration of services, and the configuration items that support them, is available when and where needed.",
     "options": [
-      "service configuration management practice",
-      "project management practice",
       "obtain/build",
-      "release",
+      "service configuration management practice",
       "configuration management system (CMS)",
-      "supplier management practice",
-      "release management practice",
-      "service catalogue management practice",
-      "workforce and talent management practice"
+      "project management practice"
     ],
     "correct_answer": "service configuration management practice"
   },
@@ -2387,15 +1642,10 @@
     "term": "service consumption",
     "definition": "Activities performed by an organization to consume services. It includes the management of the consumer’s resources needed to use the service, service actions performed by users, and the receiving (acquiring) of goods (if required).",
     "options": [
-      "goods",
-      "service offering",
-      "service action",
-      "service consumption",
-      "product",
       "service relationship management",
-      "value streams and processes",
-      "service financial management practice",
-      "service provision"
+      "goods",
+      "service action",
+      "service consumption"
     ],
     "correct_answer": "service consumption"
   },
@@ -2403,15 +1653,10 @@
     "term": "service continuity management practice",
     "definition": "The practice of ensuring that service availability and performance are maintained at a sufficient level in case of a disaster.",
     "options": [
-      "service validation and testing practice",
       "capacity and performance management",
       "project management practice",
-      "service catalogue management practice",
       "supplier management practice",
-      "risk management practice",
-      "information security management practice",
-      "service continuity management practice",
-      "availability management practice"
+      "service continuity management practice"
     ],
     "correct_answer": "service continuity management practice"
   },
@@ -2419,15 +1664,10 @@
     "term": "service design practice",
     "definition": "The practice of designing products and services that are fit for purpose, fit for use, and that can be delivered by the organization and its ecosystem.",
     "options": [
-      "continual improvement practice",
       "service design practice",
-      "maturity",
-      "release management practice",
       "risk management practice",
-      "knowledge management practice",
-      "supplier management practice",
-      "project management practice",
-      "portfolio management practice"
+      "maturity",
+      "continual improvement practice"
     ],
     "correct_answer": "service design practice"
   },
@@ -2435,15 +1675,10 @@
     "term": "service desk",
     "definition": "The point of communication between the service provider and all its users. service desk practice The practice of capturing demand for incident resolution and service requests.",
     "options": [
-      "capacity and performance management",
-      "service action",
-      "service level agreement (SLA)",
       "major incident",
+      "availability management practice",
       "service relationship",
-      "relationship management practice",
-      "call",
-      "service desk",
-      "availability management practice"
+      "service desk"
     ],
     "correct_answer": "service desk"
   },
@@ -2451,15 +1686,10 @@
     "term": "service financial management practice",
     "definition": "The practice of supporting an organization’s strategies and plans for service management by ensuring that the organization’s financial resources and investments are being used effectively.",
     "options": [
-      "organizational change management",
-      "supplier management practice",
-      "ITIL",
-      "workforce and talent management practice",
-      "strategy management practice",
-      "service financial management practice",
+      "ITIL guiding principles",
       "risk management practice",
-      "project management practice",
-      "ITIL guiding principles"
+      "service financial management practice",
+      "workforce and talent management practice"
     ],
     "correct_answer": "service financial management practice"
   },
@@ -2467,15 +1697,10 @@
     "term": "service level",
     "definition": "One or more metrics that define expected or achieved service quality.",
     "options": [
-      "effectiveness",
-      "quick win",
+      "service level",
       "control",
-      "design and transition",
-      "capacity and performance management",
-      "process",
-      "service level agreement (SLA)",
       "performance",
-      "service level"
+      "effectiveness"
     ],
     "correct_answer": "service level"
   },
@@ -2483,15 +1708,10 @@
     "term": "service level agreement (SLA)",
     "definition": "A documented agreement between a service provider and a customer that identifies both services required and the expected level of service.",
     "options": [
-      "external customer",
-      "service desk",
+      "resolution",
       "service action",
       "service level agreement (SLA)",
-      "internal customer",
-      "service relationship",
-      "service level",
-      "resolution",
-      "customer experience (CX)"
+      "service relationship"
     ],
     "correct_answer": "service level agreement (SLA)"
   },
@@ -2499,15 +1719,10 @@
     "term": "service level management practice",
     "definition": "The practice of setting clear business-based targets for service performance so that the delivery of a service can be properly assessed, monitored, and managed against these targets. service management A set of specialized organizational capabilities for enabling value for customers in the form of services.",
     "options": [
-      "DevOps",
-      "supplier management practice",
-      "continual improvement practice",
-      "four dimensions of service management",
-      "business impact analysis (BIA)",
       "service level management practice",
-      "business analysis practice",
-      "digital transformation",
-      "change enablement practice"
+      "business impact analysis (BIA)",
+      "supplier management practice",
+      "digital transformation"
     ],
     "correct_answer": "service level management practice"
   },
@@ -2515,15 +1730,10 @@
     "term": "service offering",
     "definition": "A formal description of one or more services, designed to address the needs of a target consumer group. A service offering may include goods, access to resources, and service actions.",
     "options": [
-      "product",
-      "service relationship",
-      "service consumption",
-      "service provision",
-      "goods",
       "practice",
-      "business analysis practice",
+      "product",
       "service offering",
-      "charging"
+      "service relationship"
     ],
     "correct_answer": "service offering"
   },
@@ -2531,15 +1741,10 @@
     "term": "service owner",
     "definition": "A role that is accountable for the delivery of a specific service.",
     "options": [
-      "utility requirements",
-      "service owner",
-      "service provider",
-      "business relationship manager (BRM)",
-      "cost",
       "status",
       "IT asset",
-      "customer",
-      "live environment"
+      "cost",
+      "service owner"
     ],
     "correct_answer": "service owner"
   },
@@ -2547,15 +1752,10 @@
     "term": "service portfolio",
     "definition": "A complete set of products and services that are managed throughout their lifecycles by an organization.",
     "options": [
-      "service design practice",
-      "plan",
-      "value stream",
       "supplier",
-      "supplier management practice",
-      "continual improvement practice",
       "service portfolio",
-      "programme",
-      "portfolio management practice"
+      "value stream",
+      "service design practice"
     ],
     "correct_answer": "service portfolio"
   },
@@ -2564,14 +1764,9 @@
     "definition": "A role performed by an organization in a service relationship to provide services to consumers.",
     "options": [
       "supplier",
-      "live environment",
+      "third party",
       "service provider",
-      "external customer",
-      "internal customer",
-      "service owner",
-      "service provision",
-      "value stream",
-      "third party"
+      "external customer"
     ],
     "correct_answer": "service provider"
   },
@@ -2579,15 +1774,10 @@
     "term": "service provision",
     "definition": "Activities performed by an organization to provide services. It includes management of the provider’s resources, configured to deliver the service; ensuring access to these resources for users; fulfilment of the agreed service actions; service level management; and continual improvement. It may also include the supply of goods.",
     "options": [
-      "partners and suppliers",
-      "service offering",
-      "service consumption",
-      "service relationship management",
       "availability management practice",
-      "improve",
-      "service financial management practice",
       "service provision",
-      "service action"
+      "partners and suppliers",
+      "service consumption"
     ],
     "correct_answer": "service provision"
   },
@@ -2595,15 +1785,10 @@
     "term": "service relationship",
     "definition": "A cooperation between a service provider and service consumer. Service relationships include service provision, service consumption, and service relationship management.",
     "options": [
+      "service relationship management",
       "service relationship",
-      "service provision",
-      "partnership",
       "configuration management database",
-      "service offering",
-      "service level agreement (SLA)",
-      "partners and suppliers",
-      "service desk",
-      "service relationship management"
+      "service level agreement (SLA)"
     ],
     "correct_answer": "service relationship"
   },
@@ -2611,15 +1796,10 @@
     "term": "service relationship management",
     "definition": "Joint activities performed by a service provider and a service consumer to ensure continual value co-creation based on agreed and available service offerings.",
     "options": [
-      "obtain/build",
-      "service relationship management",
-      "ITIL value chain activity",
-      "goods",
-      "service consumption",
       "improve",
-      "demand",
-      "service provision",
-      "service catalogue"
+      "goods",
+      "ITIL value chain activity",
+      "service relationship management"
     ],
     "correct_answer": "service relationship management"
   },
@@ -2627,15 +1807,10 @@
     "term": "service request",
     "definition": "A request from a user or a user’s authorized representative that initiates a service action which has been agreed as a normal part of service delivery.",
     "options": [
-      "service request",
-      "live environment",
-      "service action",
-      "IT asset",
-      "availability",
-      "service owner",
       "service request management practice",
-      "known error",
-      "request catalogue"
+      "IT asset",
+      "service request",
+      "known error"
     ],
     "correct_answer": "service request"
   },
@@ -2643,15 +1818,10 @@
     "term": "service request management practice",
     "definition": "The practice of supporting the agreed quality of a service by handling all pre-defined, userinitiated service requests in an effective and user-friendly manner.",
     "options": [
-      "availability management practice",
       "service request management practice",
-      "service validation and testing practice",
-      "service financial management practice",
-      "capacity and performance management",
-      "service request",
       "service desk",
       "measurement and reporting",
-      "knowledge management practice"
+      "service request"
     ],
     "correct_answer": "service request management practice"
   },
@@ -2659,15 +1829,10 @@
     "term": "service validation and testing practice",
     "definition": "The practice of ensuring that new or changed products and services meet defined requirements.",
     "options": [
-      "service validation and testing practice",
-      "supplier management practice",
       "release management practice",
-      "utility requirements",
-      "project management practice",
-      "deployment management practice",
+      "portfolio management practice",
       "risk management practice",
-      "availability management practice",
-      "portfolio management practice"
+      "service validation and testing practice"
     ],
     "correct_answer": "service validation and testing practice"
   },
@@ -2675,15 +1840,10 @@
     "term": "service value system (SVS)",
     "definition": "A model representing how all the components and activities of an organization work together to facilitate value creation. software development and management practice The practice of ensuring that applications meet stakeholder needs in terms of functionality, reliability, maintainability, compliance, and auditability.",
     "options": [
-      "ITIL value chain activity",
-      "service value system (SVS)",
-      "service validation and testing practice",
-      "service financial management practice",
-      "maturity",
-      "availability management practice",
-      "risk management practice",
       "project management practice",
-      "continual improvement practice"
+      "service value system (SVS)",
+      "risk management practice",
+      "service validation and testing practice"
     ],
     "correct_answer": "service value system (SVS)"
   },
@@ -2691,15 +1851,10 @@
     "term": "sourcing",
     "definition": "The activity of planning and obtaining resources from a particular source type, which could be internal or external, centralized or distributed, and open or proprietary.",
     "options": [
-      "capacity planning",
-      "output",
       "resolution",
-      "charging",
-      "effectiveness",
-      "sourcing",
       "change model",
-      "environment",
-      "demand"
+      "sourcing",
+      "capacity planning"
     ],
     "correct_answer": "sourcing"
   },
@@ -2707,15 +1862,10 @@
     "term": "specification",
     "definition": "A documented description of the properties of a product, service, or other configuration item.",
     "options": [
-      "event",
-      "availability",
-      "retire",
-      "specification",
-      "reliability",
-      "operation",
       "mean time between failures (MTBF)",
-      "recovery",
-      "live"
+      "operation",
+      "specification",
+      "reliability"
     ],
     "correct_answer": "specification"
   },
@@ -2723,15 +1873,10 @@
     "term": "sponsor",
     "definition": "The role that authorizes budget for service consumption. Can also be used to describe an organization or individual that provides financial or other support for an initiative. stakeholder A person or organization that has an interest or involvement in an organization, product, service, practice, or other entity.",
     "options": [
-      "third party",
-      "service financial management practice",
-      "supplier",
-      "project management practice",
-      "workforce and talent management practice",
-      "supplier management practice",
-      "lifecycle",
       "mission",
-      "sponsor"
+      "supplier management practice",
+      "sponsor",
+      "workforce and talent management practice"
     ],
     "correct_answer": "sponsor"
   },
@@ -2740,14 +1885,9 @@
     "definition": "A document, established by consensus and approved by a recognized body, that provides for common and repeated use, mandatory requirements, guidelines, or characteristics for its subject.",
     "options": [
       "release management practice",
-      "retire",
-      "IT service",
-      "transaction",
-      "service validation and testing practice",
-      "customer",
       "standard",
-      "release",
-      "driver"
+      "service validation and testing practice",
+      "transaction"
     ],
     "correct_answer": "standard"
   },
@@ -2755,14 +1895,9 @@
     "term": "standard change",
     "definition": "A low-risk, pre-authorized change that is well understood and fully documented, and which can be implemented without needing additional authorization.",
     "options": [
-      "emergency change",
-      "disaster recovery plans",
-      "policy",
       "standard change",
-      "event",
-      "change authority",
-      "specification",
       "procedure",
+      "specification",
       "change model"
     ],
     "correct_answer": "standard change"
@@ -2771,15 +1906,10 @@
     "term": "status",
     "definition": "A description of the specific states an entity can have at a given time.",
     "options": [
-      "validation",
-      "service owner",
-      "mission",
-      "specification",
-      "status",
       "work instruction",
-      "cost",
-      "maintainability",
-      "third party"
+      "service owner",
+      "third party",
+      "status"
     ],
     "correct_answer": "status"
   },
@@ -2787,15 +1917,10 @@
     "term": "strategy management practice",
     "definition": "The practice of formulating the goals of an organization and adopting the courses of action and allocation of resources necessary for achieving those goals.",
     "options": [
-      "information security management practice",
-      "architecture management practice",
-      "maturity",
-      "project management practice",
-      "service design practice",
       "strategy management practice",
       "service financial management practice",
-      "resolution",
-      "risk management practice"
+      "maturity",
+      "architecture management practice"
     ],
     "correct_answer": "strategy management practice"
   },
@@ -2803,15 +1928,10 @@
     "term": "supplier",
     "definition": "A stakeholder responsible for providing services that are used by an organization.",
     "options": [
-      "supplier",
-      "internal customer",
-      "change authority",
-      "external customer",
-      "business relationship manager (BRM)",
-      "third party",
-      "outcome",
       "ITIL value chain activity",
-      "architecture management practice"
+      "supplier",
+      "change authority",
+      "internal customer"
     ],
     "correct_answer": "supplier"
   },
@@ -2819,15 +1939,10 @@
     "term": "supplier management practice",
     "definition": "The practice of ensuring that an organization’s suppliers and their performance levels are managed appropriately to support the provision of seamless quality products and services.",
     "options": [
-      "project management practice",
-      "service continuity management practice",
+      "service validation and testing practice",
       "workforce and talent management practice",
       "supplier management practice",
-      "service validation and testing practice",
-      "capacity and performance management",
-      "service portfolio",
-      "portfolio management practice",
-      "risk management practice"
+      "project management practice"
     ],
     "correct_answer": "supplier management practice"
   },
@@ -2835,15 +1950,10 @@
     "term": "support team",
     "definition": "A team with the responsibility to maintain normal operations, address users’ requests, and resolve incidents and problems related to specified products, services, or other configuration items.",
     "options": [
-      "service configuration management practice",
-      "technical debt",
-      "support team",
-      "configuration",
-      "incident",
       "recovery",
-      "service desk",
-      "reliability",
-      "release"
+      "support team",
+      "incident",
+      "service desk"
     ],
     "correct_answer": "support team"
   },
@@ -2851,15 +1961,10 @@
     "term": "system",
     "definition": "A combination of interacting elements organized and maintained to achieve one or more stated purposes.",
     "options": [
-      "partnership",
       "system",
-      "value streams and processes",
-      "service continuity management practice",
-      "management system",
-      "organization",
-      "architecture management practice",
-      "process",
-      "capacity and performance management"
+      "capacity and performance management",
+      "partnership",
+      "management system"
     ],
     "correct_answer": "system"
   },
@@ -2867,15 +1972,10 @@
     "term": "systems thinking",
     "definition": "A holistic approach to analysis that focuses on the way that a system’s constituent parts work, interrelate, and interact over time, and within the context of other systems.",
     "options": [
-      "organizations and people",
       "Agile",
       "systems thinking",
-      "third party",
-      "procedure",
-      "change model",
       "Lean",
-      "transaction",
-      "status"
+      "third party"
     ],
     "correct_answer": "systems thinking"
   },
@@ -2883,15 +1983,10 @@
     "term": "technical debt",
     "definition": "The total rework backlog accumulated by choosing workarounds instead of system solutions that would take longer. test environment A controlled environment established to test products, services, and other configuration items.",
     "options": [
-      "live environment",
-      "technical debt",
       "release",
-      "configuration",
-      "service configuration management practice",
-      "support team",
       "product",
-      "live",
-      "pilot"
+      "configuration",
+      "technical debt"
     ],
     "correct_answer": "technical debt"
   },
@@ -2899,15 +1994,10 @@
     "term": "third party",
     "definition": "A stakeholder external to an organization. throughput A measure of the amount of work performed by a product, service, or other system over a given period of time.",
     "options": [
-      "service provider",
-      "status",
-      "supplier",
-      "recovery time objective (RTO)",
-      "systems thinking",
       "third party",
-      "maturity",
-      "validation",
-      "reliability"
+      "status",
+      "systems thinking",
+      "service provider"
     ],
     "correct_answer": "third party"
   },
@@ -2915,15 +2005,10 @@
     "term": "transaction",
     "definition": "A unit of work consisting of an exchange between two or more participants or systems. use case A technique using realistic practical scenarios to define functional requirements and to design tests.",
     "options": [
-      "IT service",
-      "partnership",
-      "systems thinking",
-      "utility requirements",
-      "cost centre",
-      "driver",
-      "standard",
       "warranty requirements",
-      "transaction"
+      "transaction",
+      "IT service",
+      "driver"
     ],
     "correct_answer": "transaction"
   },
@@ -2931,14 +2016,9 @@
     "term": "user",
     "definition": "The role that uses services. user experience (UX) The sum of the functional and emotional interactions with a service and service provider as perceived by a user.",
     "options": [
-      "business relationship manager (BRM)",
-      "customer experience (CX)",
-      "external customer",
-      "internal customer",
-      "identity",
       "value",
-      "service action",
-      "service owner",
+      "identity",
+      "external customer",
       "user"
     ],
     "correct_answer": "user"
@@ -2947,15 +2027,10 @@
     "term": "utility",
     "definition": "The functionality offered by a product or service to meet a particular need. Utility can be summarized as ‘what the service does’ and can be used to determine whether a service is ‘fit for purpose’. To have utility, a service must either support the performance of the consumer or remove constraints from the consumer. Many services do both.",
     "options": [
-      "supplier management practice",
       "service design practice",
-      "design thinking",
-      "warranty",
-      "environment",
-      "utility",
-      "service value system (SVS)",
       "sponsor",
-      "acceptance criteria"
+      "utility",
+      "service value system (SVS)"
     ],
     "correct_answer": "utility"
   },
@@ -2963,15 +2038,10 @@
     "term": "utility requirements",
     "definition": "Functional requirements which have been defined by the customer and are unique to a specific product.",
     "options": [
-      "known error",
+      "driver",
       "service validation and testing practice",
       "service owner",
-      "utility requirements",
-      "customer experience (CX)",
-      "service",
-      "warranty requirements",
-      "external customer",
-      "driver"
+      "utility requirements"
     ],
     "correct_answer": "utility requirements"
   },
@@ -2979,15 +2049,10 @@
     "term": "validation",
     "definition": "Confirmation that the system, product, service, or other entity meets the agreed specification.",
     "options": [
-      "validation",
       "lifecycle",
-      "maintainability",
-      "third party",
-      "sponsor",
-      "IT asset",
-      "monitoring",
       "specification",
-      "mission"
+      "third party",
+      "validation"
     ],
     "correct_answer": "validation"
   },
@@ -2995,15 +2060,10 @@
     "term": "value",
     "definition": "The perceived benefits, usefulness, and importance of something.",
     "options": [
-      "user",
-      "driver",
-      "value",
       "environment",
-      "acceptance criteria",
-      "organizational change management",
-      "business case",
       "customer experience (CX)",
-      "Agile"
+      "acceptance criteria",
+      "value"
     ],
     "correct_answer": "value"
   },
@@ -3013,13 +2073,8 @@
     "options": [
       "live environment",
       "service design practice",
-      "supplier management practice",
-      "service provider",
-      "continual improvement practice",
       "portfolio management practice",
-      "value stream",
-      "service portfolio",
-      "development environment"
+      "value stream"
     ],
     "correct_answer": "value stream"
   },
@@ -3027,15 +2082,10 @@
     "term": "value streams and processes",
     "definition": "One of the four dimensions of service management. It defines the activities, workflows, controls, and procedures needed to achieve the agreed objectives.",
     "options": [
-      "organizations and people",
-      "partners and suppliers",
-      "information and technology",
+      "improve",
       "disaster recovery plans",
-      "value streams and processes",
-      "organization",
       "service consumption",
-      "policy",
-      "improve"
+      "value streams and processes"
     ],
     "correct_answer": "value streams and processes"
   },
@@ -3043,15 +2093,10 @@
     "term": "vision",
     "definition": "A defined aspiration of what an organization would like to become in the future.",
     "options": [
-      "service provider",
-      "ITIL value chain activity",
-      "project management practice",
-      "organizations and people",
       "internal customer",
-      "supplier",
-      "disaster recovery plans",
+      "vision",
       "external customer",
-      "vision"
+      "organizations and people"
     ],
     "correct_answer": "vision"
   },
@@ -3059,15 +2104,10 @@
     "term": "warranty",
     "definition": "Assurance that a product or service will meet agreed requirements. Warranty can be summarized as ‘how the service performs’ and can be used to determine whether a service is ‘fit for use’. Warranty often relates to service levels aligned with the needs of service consumers. This may be based on a formal agreement, or it may be a marketing message or brand image. Warranty typically addresses such areas as the availability of the service, its capacity, levels of security, and continuity. A service may be said to provide acceptable assurance, or ‘warranty’, if all defined and agreed conditions are met.",
     "options": [
-      "service validation and testing practice",
-      "design thinking",
-      "utility",
-      "utility requirements",
+      "service value system (SVS)",
       "acceptance criteria",
       "warranty",
-      "IT service",
-      "service value system (SVS)",
-      "availability management practice"
+      "utility"
     ],
     "correct_answer": "warranty"
   },
@@ -3075,15 +2115,10 @@
     "term": "warranty requirements",
     "definition": "Typically non-functional requirements captured as inputs from key stakeholders and other practices.",
     "options": [
-      "customer",
       "driver",
-      "utility requirements",
       "transaction",
-      "acceptance criteria",
-      "feedback loop",
-      "service validation and testing practice",
-      "warranty requirements",
-      "customer experience (CX)"
+      "customer experience (CX)",
+      "warranty requirements"
     ],
     "correct_answer": "warranty requirements"
   },
@@ -3091,15 +2126,10 @@
     "term": "waterfall method",
     "definition": "A development approach that is linear and sequential with distinct objectives for each phase of development.",
     "options": [
-      "management system",
-      "minimum viable product (MVP)",
-      "driver",
-      "information security policy",
-      "Lean",
       "waterfall method",
-      "organization",
-      "effectiveness",
-      "change model"
+      "minimum viable product (MVP)",
+      "change model",
+      "management system"
     ],
     "correct_answer": "waterfall method"
   },
@@ -3107,15 +2137,10 @@
     "term": "work instruction",
     "definition": "A detailed description to be followed in order to perform an activity.",
     "options": [
-      "specification",
-      "output",
-      "work instruction",
-      "modelling",
-      "risk assessment",
-      "procedure",
       "configuration item (CI)",
-      "status",
-      "cost"
+      "cost",
+      "modelling",
+      "work instruction"
     ],
     "correct_answer": "work instruction"
   },
@@ -3123,15 +2148,10 @@
     "term": "workaround",
     "definition": "A solution that reduces or eliminates the impact of an incident or problem for which a full resolution is not yet available. Some workarounds reduce the likelihood of incidents.",
     "options": [
-      "business analysis practice",
-      "resolution",
-      "error",
-      "practice",
-      "workaround",
       "incident",
-      "major incident",
-      "problem management practice",
-      "service desk"
+      "resolution",
+      "workaround",
+      "error"
     ],
     "correct_answer": "workaround"
   },
@@ -3139,15 +2159,10 @@
     "term": "workforce and talent management practice",
     "definition": "The practice of ensuring that an organization has the right people with the appropriate skills and knowledge and in the correct roles to support its business objectives.",
     "options": [
-      "project management practice",
-      "organizational change management",
-      "risk management practice",
       "knowledge management practice",
-      "service financial management practice",
       "supplier management practice",
-      "portfolio management practice",
       "workforce and talent management practice",
-      "effectiveness"
+      "service financial management practice"
     ],
     "correct_answer": "workforce and talent management practice"
   }

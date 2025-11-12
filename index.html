@@ -1,10 +1,10 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
 <title>ITIL Practice Exam</title>
-<link rel="stylesheet" href="styles.css" />
+<link rel="stylesheet" href="styles.css"/>
 </head>
 <body>
 <div class="container">
@@ -13,19 +13,17 @@
     <p>40 questions • 60 minutes • Pass = 26/40</p>
     <button id="start-btn">Start Exam</button>
   </div>
-
   <div id="exam-screen" class="card hidden">
     <div class="top-row">
       <div id="q-count">Question 1 / 40</div>
+      <div id="score-display">Score: 0 / 40</div>
       <div id="timer">60:00</div>
+      <button id="pause-btn">Pause</button>
     </div>
     <div id="definition" class="definition"></div>
     <div id="options" class="options"></div>
-    <div class="controls">
-      <button id="next-btn" disabled>Next</button>
-    </div>
+    <div class="controls"><button id="next-btn" disabled>Next</button></div>
   </div>
-
   <div id="result-screen" class="card hidden">
     <h2>Results</h2>
     <div id="score"></div>
@@ -35,7 +33,6 @@
     <button id="restart-btn">Restart</button>
   </div>
 </div>
-
 <script src="script.js"></script>
 </body>
 </html>
